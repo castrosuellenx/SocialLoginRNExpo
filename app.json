@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SocialLoginRNExpo",
+    "slug": "SocialLoginRNExpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
